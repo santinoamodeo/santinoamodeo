@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋 About Me:
 ¡Hola! 👋 Soy un desarrollador frontend de 18 años de Argentina, con muchas ganas de aprender y crecer en el mundo del desarrollo web. Actualmente me estoy formando en tecnologías relacionadas con el diseño y la programación de interfaces, buscando crear experiencias atractivas y funcionales para los usuarios.<br><br>Me apasiona trabajar en proyectos donde pueda aplicar mis conocimientos en frontend, perfeccionar mis habilidades y colaborar en equipo para lograr resultados innovadores. Estoy comprometido con el aprendizaje continuo y la mejora constante en cada desafío profesional.<br><br>Estoy buscando oportunidades que me permitan desarrollarme como profesional, aportar creatividad y contribuir a soluciones efectivas y bien diseñadas.
 
 
